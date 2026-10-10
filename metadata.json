@@ -1,0 +1,6 @@
+{
+  "name": "ShakeDice",
+  "description": "Shake-to-roll dice app with realistic 3D tumbling physics, haptic feedback, custom RPG & D6 dice, and roll history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
